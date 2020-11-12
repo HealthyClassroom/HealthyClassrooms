@@ -50,13 +50,13 @@ h1 {
     font-size: 58px;
   }
 
-  div.j{
+div.j{
     display: block;
     width: 800px;
-    height: 400px;
+    height: 800px;
     margin: 0 auto;
     border: 0;
-    padding-left: 260px;
+    padding-left: 20px;
  
 
 
