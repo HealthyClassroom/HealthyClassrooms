@@ -1,0 +1,64 @@
+.container {
+    margin:0 auto; /* this will center the page */
+    width:960px; /*  use your width here */
+ }
+body{
+     background: white;
+    
+}
+
+.button1{
+        background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+
+div.a{
+    text-align: center;
+}
+div.b{
+    text-align: justify; 
+}
+div.c{
+    text-align: justify;
+}
+div.d{
+    text-align: justify;
+}
+div.e{
+    text-align: justify;
+}
+div.f{
+    text-align: justify;
+}
+div.g{
+    text-align: justify;
+}
+iframe {
+    
+}
+h1 {
+    font-weight: bold;
+    font-size: 58px;
+  }
+
+  div.j{
+    display: block;
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+    border: 0;
+    padding-left: 260px;
+ 
+
+
+  }
+  
