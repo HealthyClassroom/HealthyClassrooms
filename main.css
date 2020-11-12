@@ -7,44 +7,7 @@ body{
     
 }
 
-.button1{
-        background-color: black;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    
-}
 
-div.a{
-    text-align: center;
-}
-div.b{
-    text-align: justify; 
-}
-div.c{
-    text-align: justify;
-}
-div.d{
-    text-align: justify;
-}
-div.e{
-    text-align: justify;
-}
-div.f{
-    text-align: justify;
-}
-div.g{
-    text-align: justify;
-}
-iframe {
-    
-}
 h1 {
     font-weight: bold;
     font-size: 58px;
@@ -57,8 +20,18 @@ div.j{
     margin: 0 auto;
     border: 0;
     padding-left: 20px;
- 
-
 
   }
-  
+  .button1{
+    background-color: black;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+
+}
